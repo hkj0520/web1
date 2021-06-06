@@ -1,0 +1,16 @@
+body.white{
+  background-color: white;
+  color: black;
+}
+body.black{
+  background-color: black;
+  color: yellow;
+}
+.em{
+  text-decoration: underline;
+  color: red;
+}
+.em1{
+  text-decoration: none;
+  color: black;
+}
